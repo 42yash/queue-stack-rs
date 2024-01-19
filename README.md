@@ -161,22 +161,6 @@ pub fn display(&self) {
     }
 ```
 
-## Code Outputs
-
-![Untitled](Implementation%20of%20Stack%20and%20Queue%20Using%20Linked%20Lis%20173c2d4369734161869ce1b777ffd74e/Untitled.png)
-
-### Stack Outputs
-
-![Untitled](Implementation%20of%20Stack%20and%20Queue%20Using%20Linked%20Lis%20173c2d4369734161869ce1b777ffd74e/Untitled%201.png)
-
-![Untitled](Implementation%20of%20Stack%20and%20Queue%20Using%20Linked%20Lis%20173c2d4369734161869ce1b777ffd74e/Untitled%202.png)
-
-### Queue Outputs
-
-![Untitled](Implementation%20of%20Stack%20and%20Queue%20Using%20Linked%20Lis%20173c2d4369734161869ce1b777ffd74e/Untitled%203.png)
-
-![Untitled](Implementation%20of%20Stack%20and%20Queue%20Using%20Linked%20Lis%20173c2d4369734161869ce1b777ffd74e/Untitled%204.png)
-
 ## Conclusion
 
 In conclusion, this report has successfully demonstrated the implementation of Stack and Queue data structures using Linked Lists. The dynamic nature of Linked Lists has proven to be highly effective in managing these data structures, providing efficient and flexible solutions for data storage and manipulation.
